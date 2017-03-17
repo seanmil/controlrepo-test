@@ -1,1 +1,1 @@
-target.txt
+My new content
